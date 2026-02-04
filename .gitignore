@@ -214,3 +214,11 @@ __marimo__/
 
 # Ignore Supabase temp anywhere
 **/supabase/.temp/
+# Node / Expo / React Native
+node_modules/
+.expo/
+.expo-shared/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
